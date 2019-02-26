@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">PoySha</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="UserIDorPhone" translatable="false">UserId Or Phone Number</string>
+    <string name="WantToMakeAn" translatable="false">Want to make an account?</string>
+    <string name="LoginWith" translatable="false">Login with facebook or Gmail account.</string>
+    <string name="ForgetPassword" translatable="false">Forget your password?</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="fname" translatable="false">First Name</string>
+    <string name="lname" translatable="false">Last Name</string>
+    <string name="Phone" translatable="false">Phone Number</string>
+    <string name="NIDNO" translatable="false">National ID Card Number</string>
+    <string name="AlreadyHave" translatable="false">Already Have An Account?</string>
+    <string name="tos" translatable="false">By Signing Up you agree to our Terms and Privacy Policy</string>
+    <string name="userid">UserID</string>
+    <string name="userid2">UserID:</string>
+    <string name="poysha_balance">PoySha Balance</string>
+    <string name="_786786_or_01750690477">786786 OR 01750690477</string>
+    <string name="al_amin_islam_nerob">Al-Amin Islam Nerob</string>
+    <string name="pay_by_qr_code">Pay By QR Code</string>
+    <string name="make_a_payment">Make A Payment</string>
+    <string name="ok">Ok</string>
+    <string name="search_user">Search User</string>
+    <string name="send_now">Send Now</string>
+    <string name="amount_in_bdt">Amount in BDT</string>
+
+
+    <string name="quickstart_message">Click the SUBSCRIBE TO NEWS button below to subscribe to the
+        news topic. Messages sent to the news topic will be received. The LOG TOKEN button logs the
+        InstanceID token to logcat.</string>
+    <string name="subscribe_to_news">Subscribe To News</string>
+    <string name="log_token">Log Token</string>
+
+    <string name="msg_subscribed">Subscribed to news topic</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <!--
+        This is the name that users will see when interacting with this channel.
+        It should describe the category of notifications that will be sent through this channel
+     -->
+    <string name="default_notification_channel_name" translatable="true">News</string>
+    <string name="send_money">Send Money</string>
+    <string name="receive_money">Receive Money</string>
+    <string name="send_request">Send Request</string>
+    <string name="additional_note_comments">Additional Note/Comments</string>
+    <string name="transaction_list">Transaction List</string>
+    <string name="sl">SL</string>
+    <string name="description">Description</string>
+    <string name="type">Type</string>
+    <string name="amount">Amount</string>
+    <string name="statics">Status</string>
+    <string name="trxid">TrxID</string>
+    <string name="logout">Logout</string>
+    <string name="notification">Notification</string>
+    <string name="dummy_text">Custom Text Custom Text Custom Text Custom Text Custom Text Custom Text</string>
+    <string name="approve_money_request">Approve Money Request</string>
+    <string name="approve_request">Approve Request</string>
+    <string name="msg_subscribe_failed">FCM Fail</string>
+    <string name="transaction">Transaction</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="report_bug">Report Bug</string>
+
+
+</resources>

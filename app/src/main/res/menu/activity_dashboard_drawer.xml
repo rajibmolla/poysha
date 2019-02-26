@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Transaction2"
+            android:icon="@drawable/transaction_icon2"
+            android:title="@string/transaction" />
+        <item
+            android:id="@+id/SendMoney2"
+            android:icon="@drawable/sendmoney_icon"
+            android:title="@string/send_money" />
+        <item
+            android:id="@+id/ReceiveMoney2"
+            android:icon="@drawable/receivemoney_icon"
+            android:title="@string/receive_money" />
+        <item
+            android:id="@+id/LogOut"
+            android:icon="@drawable/logout_icon"
+            android:title="@string/logout" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/BugReport"
+                android:icon="@drawable/bug_report"
+                android:title="@string/report_bug" />
+            <item
+                android:id="@+id/ContactUs"
+                android:icon="@drawable/contact_menu_icon"
+                android:title="@string/contact_us" />
+        </menu>
+    </item>
+
+</menu>
